@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MoviesViewController.(loadMovies() -&gt; ()).(closure #1):MoviesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "movies">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MoviesViewController.tableView(UITableView, numberOfRowsInSection : Int) -&gt; Int:MoviesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "movies.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0800"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "406C82831DAE1ED00065DB6B"
-               BuildableName = "iOS-W1-Assignment.app"
-               BlueprintName = "iOS-W1-Assignment"
-               ReferencedContainer = "container:iOS-W1-Assignment.xcodeproj">
+               BlueprintIdentifier = "FBA2F10DC94FB25E349A6ACD64F90026"
+               BuildableName = "Pods_iOS_W1_Assignment.framework"
+               BlueprintName = "Pods-iOS-W1-Assignment"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "406C82831DAE1ED00065DB6B"
-            BuildableName = "iOS-W1-Assignment.app"
-            BlueprintName = "iOS-W1-Assignment"
-            ReferencedContainer = "container:iOS-W1-Assignment.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "406C82831DAE1ED00065DB6B"
-            BuildableName = "iOS-W1-Assignment.app"
-            BlueprintName = "iOS-W1-Assignment"
-            ReferencedContainer = "container:iOS-W1-Assignment.xcodeproj">
+            BlueprintIdentifier = "FBA2F10DC94FB25E349A6ACD64F90026"
+            BuildableName = "Pods_iOS_W1_Assignment.framework"
+            BlueprintName = "Pods-iOS-W1-Assignment"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "406C82831DAE1ED00065DB6B"
-            BuildableName = "iOS-W1-Assignment.app"
-            BlueprintName = "iOS-W1-Assignment"
-            ReferencedContainer = "container:iOS-W1-Assignment.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

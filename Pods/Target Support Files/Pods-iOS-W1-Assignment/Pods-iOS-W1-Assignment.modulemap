@@ -1,0 +1,6 @@
+framework module Pods_iOS_W1_Assignment {
+  umbrella header "Pods-iOS-W1-Assignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
