@@ -6,6 +6,8 @@ target 'iOS-W1-Assignment' do
   use_frameworks!
 pod 'AFNetworking', '~> 3.0’
 pod 'MBProgressHUD'
+pod 'ReachabilitySwift', '~> 3'
+
   # Pods for iOS-W1-Assignment
 
 end

@@ -15,15 +15,18 @@ PODS:
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
   - MBProgressHUD (1.0.0)
+  - ReachabilitySwift (3)
 
 DEPENDENCIES:
   - AFNetworking (~> 3.0)
   - MBProgressHUD
+  - ReachabilitySwift (~> 3)
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
 
-PODFILE CHECKSUM: 4847e5c64d54acaf4bc51b73eb8224e09e7f2793
+PODFILE CHECKSUM: 43c5b8f4371555e304a6abb01170e4e856aeaa2f
 
 COCOAPODS: 1.1.0.rc.3
