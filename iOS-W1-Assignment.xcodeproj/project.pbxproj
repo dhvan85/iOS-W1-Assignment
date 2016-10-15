@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		403CB5B91DAF9AC300CC7EB4 /* MovieTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403CB5B81DAF9AC300CC7EB4 /* MovieTableViewCell.swift */; };
 		403CB5BB1DAFE91400CC7EB4 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 403CB5BA1DAFE91400CC7EB4 /* DetailViewController.swift */; };
+		403CB5BF1DB1DA0700CC7EB4 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 403CB5BE1DB1DA0700CC7EB4 /* README.md */; };
 		406C82881DAE1ED00065DB6B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 406C82871DAE1ED00065DB6B /* AppDelegate.swift */; };
 		406C828D1DAE1ED00065DB6B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 406C828B1DAE1ED00065DB6B /* Main.storyboard */; };
 		406C828F1DAE1ED00065DB6B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 406C828E1DAE1ED00065DB6B /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 		33FB4211B344526E639719DF /* Pods-iOS-W1-Assignment.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS-W1-Assignment.release.xcconfig"; path = "Pods/Target Support Files/Pods-iOS-W1-Assignment/Pods-iOS-W1-Assignment.release.xcconfig"; sourceTree = "<group>"; };
 		403CB5B81DAF9AC300CC7EB4 /* MovieTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieTableViewCell.swift; sourceTree = "<group>"; };
 		403CB5BA1DAFE91400CC7EB4 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		403CB5BE1DB1DA0700CC7EB4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		406C82841DAE1ED00065DB6B /* iOS-W1-Assignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS-W1-Assignment.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		406C82871DAE1ED00065DB6B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		406C828C1DAE1ED00065DB6B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -47,6 +49,7 @@
 		406C827B1DAE1ED00065DB6B = {
 			isa = PBXGroup;
 			children = (
+				403CB5BE1DB1DA0700CC7EB4 /* README.md */,
 				406C82861DAE1ED00065DB6B /* iOS-W1-Assignment */,
 				406C82851DAE1ED00065DB6B /* Products */,
 				6925FC808502B700B76A0468 /* Pods */,
@@ -219,6 +222,7 @@
 			files = (
 				406C82881DAE1ED00065DB6B /* AppDelegate.swift in Sources */,
 				40A300081DAE250100922075 /* MoviesViewController.swift in Sources */,
+				403CB5BF1DB1DA0700CC7EB4 /* README.md in Sources */,
 				403CB5B91DAF9AC300CC7EB4 /* MovieTableViewCell.swift in Sources */,
 				403CB5BB1DAFE91400CC7EB4 /* DetailViewController.swift in Sources */,
 			);
